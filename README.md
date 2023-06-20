@@ -8,7 +8,7 @@ Descripción 📋
 ---
 
   El proyecto consistía  en desarrollar una plataforma para los alumnos de EDEM donde pudieran estar al tanto de todas las noticias y eventos en relación con
- el ecosistema de Marina de Empresas (EDEM, Lanzadera y Angels), se presentó al cliente un MVP y trabajamos en llegar a esos objetivos. El proyecto está creado
+ el ecosistema de Marina de Empresas (EDEM, Lanzadera y Angels), se presentó al cliente un MVP y trabajamos en llegar a esos objetivos. Muchos componentes están en fase de desarrollo y se irán actualizando y nutriendo de mas contenido y utilidades para el usuario. El proyecto está creado
  con React de JavaScript en el front-end.
  
    Dejo enlace al repositorio del back-end hecho con MongoDB  (https://github.com/Goner10/Back-Desafio/tree/main)
