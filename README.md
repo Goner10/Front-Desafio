@@ -1,6 +1,8 @@
+
 <p align="center">
   <img src="./src/assets/icons/EDEMAzul.png" alt="Imagen" />
 </p>
+
 
 Descripción 📋
 ---
@@ -74,7 +76,7 @@ Autores 🧑‍✒️
 
 * Gonzalo Martí - [goner10](https://github.com/Goner10)
 
-* Adrian Martinez- [valenti94br](https://github.com/adrianMartinezTeba)
+* Adrian Martinez- [adrianMartinezTeba](https://github.com/adrianMartinezTeba)
 
 * Valentí Barat- [valenti94br](https://github.com/valenti94br)
 
